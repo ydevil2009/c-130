@@ -1,0 +1,33 @@
+.title{
+    font-size: 24px;
+    width:100%;
+    margin:0px;
+
+}
+.NOTE{
+    font-size: 18px;
+    color: darkorchid;
+}
+body{
+    background-size: cover;
+}
+.div1{
+    float:left;
+}
+.imgdisk{
+    width:200px;
+    border-radius:100px;
+}
+.div2{
+    float:right;
+}
+.s{
+    margin-right: 600px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+}

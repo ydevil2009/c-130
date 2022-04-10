@@ -1,0 +1,9 @@
+<div class="div1">
+      <img src="disk.gif" class="imgdisk"><br>
+      <h2 id="speedtext" class="btn btn-danger">Speed: </h2>
+    </div>
+    <div class="div2">
+      <img src="disk.gif" class="imgdisk"><br>
+      <h2 id="volumetext" class="btn btn-warning">Volume: </h2>
+    </div>
+	<br><br>
